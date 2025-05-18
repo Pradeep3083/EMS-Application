@@ -33,26 +33,6 @@ A full-stack web application for managing employees using **Java Spring Boot**, 
 
 ---
 
-## 📁 Folder Structure
-
-EMS-Application/
-├── src/
-│ ├── main/
-│ │ ├── java/com/example/EMS/
-│ │ │ ├── controller/
-│ │ │ ├── model/
-│ │ │ └── service/
-│ │ └── resources/
-│ │ ├── templates/
-│ │ │ ├── index.html
-│ │ │ ├── addEmployee.html
-│ │ │ └── update.html
-│ │ └── application.properties
-├── pom.xml
-└── Dockerfile
-
----
-
 ## ⚙️ How It Works
 
 - The homepage (`/`) shows a list of all employees (`index.html`)
